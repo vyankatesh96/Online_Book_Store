@@ -1,0 +1,2 @@
+# Online_Book_Store
+ Online Book Store is one of the e-commerce project. Customers can search ,view the Book and get their book delivered instead of actually going and buying the Book. This system saves both time and travelling cost of customers. Pojo class has been created where private field are declared and using getter setter it has been set. Dao interface has been created where various interface are declared and in Daoimpl class the interfaces are implemented as per the operations desired.
